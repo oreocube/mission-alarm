@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AlarmApp</string>
+    <string name="channel_name">MY_ALARM_CHANNEL</string>
+    <string name="channel_description">MY_ALARM_CHANNEL</string>
+    <string name="text_question">주어진 문장을 똑같이 입력해주세요</string>
+    <string name="num_question">주어진 수식의 답을 입력해주세요</string>
+    <string name="text_hint">똑같이 입력해주세요</string>
+    <string name="num_hint">정답을 입력해주세요</string>
+</resources>
